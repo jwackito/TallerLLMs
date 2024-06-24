@@ -1,6 +1,6 @@
 # Taller de LLMs
 Repositorio con datasets y ejemplos para el Taller de Large Language Models
-- Primera edición - 2024 (Para LIFIA)
+- Primera edición - Jun/2024 (Para LIFIA)
 
 ## Como usar este repositorio
 Hacé un fork a tu github para poder hacer Push Requests de manera cómoda. Además, así es más fácil dejar constancia de la autoría de las contribuciones. Luego, `git clone` a una copia local desde tu repo.
